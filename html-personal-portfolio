@@ -1,0 +1,133 @@
+<html Lang="en">
+     <header id="header">
+       
+<nav id="nav-bar">
+  <ul id="links" >
+    <li>
+      <a class="nav-link" href="#welcome-section" >About</a>
+    </li>
+    <li>
+      <a class="nav-link" class="nav-link" href="#projects">Projects</a>
+    </li>
+    <li>
+      <a class="nav-link" href="#contact">Contact</a>
+    </li>
+  </ul>
+</nav>
+ </header>
+  
+<!-- START WELCOME SECTION -->
+  <section id="welcome-section" class="welcome-section">
+    <h1> Hi, I am </h1>
+    <h2>Ermarly Berrios</h2>
+    <p><i> Front-End Novice Developer</i></p>
+    </section>
+  
+  <section class="about-me" id="About">
+  <h4 class="section__title__title--about">Who I am</h4>
+  
+  
+  <div class="about-me__body">
+    <p><i>I am an enthusiastic Spanish teacher and now a programming student at Freecodecamp and a Software Engineering student at the Positivo University in Brazil. Besides, I consider myself a traveler lover and someone who likes to learn new things every day.
+      </i></p>
+  </div>   
+     <div class="img">
+    <img src="https://avatars.githubusercontent.com/u/85424617?v=4" class="intro_img" alt"a picture of Ermarly Berrios smiling">
+      
+    </div>
+  </section>
+  <!-- START PROJECTS SECTION -->
+<section id="projects" class="projects">
+  <h2 class="section__title__title--projects">What I do</h2>
+  <div class="projects">
+    <div class="projects">
+      <h3>Design + Development </h3>
+      <p> I would like to help you create the perfect website for your store, company, or service. Together we will design a striking and well structured website according to your needs, expectations and tastes.</p>
+    </div>
+    
+     <div class="projects">
+      <h3> E-Commerce </h3>
+      <p>High quality and specialized services since 2021. I help companies of all sizes to enhance their projects through graphic design, digital design, printed material, programming, consulting and much more. I work with the creation of unique Logo and Brands, complete Visual Identity, Institutional Web Sites for companies. </p>
+    </div>
+  </div>
+   <div style="text-align:center">
+  <a href="https://codepen.io/apapacho" class="btn">My work</a>
+  </div>
+  <h2 class="section__title">These are some of my projects</h2>
+  <p class="section__subtitle"</p>
+  
+     <div class="responsive">
+  <div class="gallery">
+    <a href="https://codepen.io/apapacho/pen/GRmMBKz" target="_Survey" class="portfolio__item">
+      <img class="project-image" src="https://1.bp.blogspot.com/-F14_ITaWw6o/YQYPy7f2ChI/AAAAAAAAJQ8/yXfUQq0K6r8Aiu5p6sjsrgAwwvjM3K7TgCLcBGAsYHQ/s1141/pagina1.jpg" alt="project-Survey"width="200" height="200"</a>
+        <div class="code">Survey Form</div>
+     
+    </a>
+     </div>
+  </div>
+  
+  <div class="responsive">
+    <div class="gallery">
+      <a href="https://codepen.io/apapacho/pen/OJmxpNp" target="Tribute_Page" class="portfolio__item">
+        <img class="project-image" src= "https://1.bp.blogspot.com/-UW_Y2bVc2cg/YQYQaXeU3zI/AAAAAAAAJRE/ziwHOkNdJ84ulwKQNLv0ppHx-xvdJnEDwCLcBGAsYHQ/s1161/pagina2.jpg" alt="project-Tribute-Page" width="200" height="200"/>
+        <div class="code">Tribute Page</div>
+        </p>
+      </a>
+  </div>
+   </div>
+  
+    <div class="responsive">
+  <div class="gallery">
+       <a href="https://codepen.io/apapacho/pen/LYyePdx" target="Product_Landing_Page" class="portfolio__item">
+        <img class="project-image" src= "https://1.bp.blogspot.com/-8BDx50ajPwg/YQYQa6dUf2I/AAAAAAAAJRM/3dPxBjNXxAMyJLJOTXp8uhJcbTqIly9XACLcBGAsYHQ/s1319/pagina4.jpg" alt="project-Product-Landing-Page" width="200" height="200"</a>
+        <div class="code">Product Landing Page</div>
+         
+      </a>
+   </div>
+      </div>
+  
+  <div class="responsive">
+  <div class="gallery">
+         <a href="https://codepen.io/apapacho/pen/qBmpWoq" target="Product_Landing_Page" class="portfolio__item">
+         
+        <img class="project-image" src= "https://1.bp.blogspot.com/-2xOzFVAm62I/YQYQa876wWI/AAAAAAAAJRI/BthMBmWSXuMulRS030asTiTgkZLTa0atQCLcBGAsYHQ/s1331/pagina3.jpg" alt="project-Technical-Documentation-Page" width="200" height="200"</a>
+        <div class="code">Technical Documentation Page</div>
+
+      </a>
+    </div>
+    </div>
+  
+         <a class="btn btn-primary"  href="https://codepen.io/apapacho/"
+            role="button">Show all</a>
+   
+</section>
+   </body>
+<!-- END PROJECTS SECTION -->
+  
+<!-- footer -->
+  <section id="contact" class="contact-section">
+    <div class="contact-section-header">
+      <h2> Let's work together...</h2>
+      <p><i>Would you like to start your project?</i></p>
+    </div>
+  <footer>
+    <div class="contact-links">
+      <a href="https://codepen.io/apapacho" target="_blank" class="btn contact-details">
+        <i class="fab fa-codepen"></i>CodePen</a>
+    </a>
+    <a href="https://github.com/apapacho" target="_blank" class="btn contact-details">
+      <i class="fa fa-github" style="font-size:24px"></i>GitHub</a>
+   
+   <a href="tel:555-555-5555" class="btn contact-details">
+     <i class="fas fa-mobile-alt"> </i> Call me</a>
+     <a href="https://www.freecodecamp.org/fcc8d150cf0-c505-4d83-8fbc-4c7319bbfda1" class="btn contact-details"
+      >
+      <i class="fab fa-free-code-camp"></i>FreeCodeCamp.org</a
+    >
+  <p>Created for <a href="https://codepen.io/apapacho" target="_blank" class="name">Ermarly Berrios <i class="fab fa-Ermarly-Berrios"> </i>
+    </a>
+    </p>
+  </section>
+    </footer>
+    </html>
+<!-- END footer -->
